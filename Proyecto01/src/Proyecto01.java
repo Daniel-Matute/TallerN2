@@ -1,7 +1,7 @@
 public class Proyecto01 {
 
     public static void main(String[] args) {
-        System.out.println("Ejemplo básico de Java Versionado a través de Git Manejado desde GitHub");
+        System.out.println("Ejemplo de Java manejado desde GitHub versionado a través de Git creado por Daniel-Matute ");
     }
     
 }
